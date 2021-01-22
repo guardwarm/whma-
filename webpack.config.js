@@ -105,11 +105,11 @@ module.exports = {
         },
         proxy : {
             '/manage' : {
-                target: 'http://admintest.happymmall.com',
+                target: 'http://www.guardwarm.网址',
                 changeOrigin : true
             },
             '/user/logout.do' : {
-                target: 'http://admintest.happymmall.com',
+                target: 'http://www.guardwarm.网址',
                 changeOrigin : true
             }
         }

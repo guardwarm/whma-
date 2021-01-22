@@ -1,8 +1,8 @@
 {
-  "name": "admin-v2-fe",
+  "name": "whmall-fe",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@gitee.com:happymmall/admin-v2-fe.git",
+  "repository": "git@github.com:guardwarm/whmall-fe.git",
   "author": "Rosen <gaorunsheng1@126.com>",
   "license": "MIT",
   "scripts": {
