@@ -16,7 +16,7 @@ module.exports = {
     output: {
         path: path.resolve(__dirname, 'dist'),
         publicPath: WEBPACK_ENV === 'dev' 
-            ? '/dist/' : '//s.guardwarm.网址/whmall/dist/',
+            ? '/dist/' : '//s.guardwarm.网址/whmall-fe/dist/',
         filename: 'js/app.js'
     },
     resolve: {
